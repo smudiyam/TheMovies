@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="title_activity_movies">MoviesActivity</string>
+    <string name="Movie_Title">Movie Title</string>
+    <string name="Year">Year</string>
+    <string name="mpaa">mpaa rating</string>
+    <string name="empty">empty</string>
+    <string name="MovieTitle">MovieTitle</string>
+    <string name="MovieYear">Year</string>
+    <string name="Moviempaa">mpaa</string>
+    <string name="MovieRutime">Runtime</string>
+    <string name="Audience">Audience</string>
+    <string name="Audience_rating">Audience rating</string>
+    <string name="Critics">Critics</string>
+    <string name="CriticsRating">Critics rating</string>
+    <string name="listitem">listitem_main</string>
+
+</resources>
